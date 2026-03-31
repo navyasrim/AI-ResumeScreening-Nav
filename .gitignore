@@ -1,0 +1,32 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python environment files
+*.env
+*.venv
+
+# Streamlit cache
+.streamlit/
+
+# Exported data
+*.csv
+*.xlsx
+*.pdf
+
+# Logs
+*.log
